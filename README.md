@@ -54,3 +54,37 @@ This tool mimics a mini version of "The Forge," a sheet metal design tool, provi
    git clone https://github.com/mrdemer7/sheet-metal-design-preview-tool.git
 
 ![image](https://github.com/user-attachments/assets/f3eca202-fcdb-486a-94e8-16314a4b38b0)
+
+![image](https://github.com/user-attachments/assets/ec3538ec-92d2-473a-b717-a4813e5169e1)
+
+![image](https://github.com/user-attachments/assets/79b9041d-0400-4a45-9005-31e15067d698)
+
+![image](https://github.com/user-attachments/assets/8c683377-325d-4df7-8a1a-467f1135947f)
+
+zoom in 
+![image](https://github.com/user-attachments/assets/0183e72c-d5a8-4dae-8aba-08a2dba9704e)
+
+zoom out 
+![image](https://github.com/user-attachments/assets/6c97bdcb-c8b0-4f44-8f1d-f2c052b2030a)
+
+Png downloaded
+![image](https://github.com/user-attachments/assets/27f806ec-8ccb-4a5a-8999-38951d680899)
+
+![image](https://github.com/user-attachments/assets/5dc51a40-4eea-4aee-a3eb-bc7f71d79076)
+
+responsive
+![image](https://github.com/user-attachments/assets/621be27b-dd75-445d-9fa3-dac7fdc2b696)
+
+![image](https://github.com/user-attachments/assets/a32db734-76ea-4e06-8734-f40c11e724fb)
+
+![image](https://github.com/user-attachments/assets/ef754b37-4adc-4fc4-ab53-103328a2283e)
+
+![image](https://github.com/user-attachments/assets/4acd6b18-43af-475a-b9a8-5aeaba98f031)
+
+
+
+
+
+
+
+
