@@ -15,7 +15,7 @@ This tool mimics a mini version of "The Forge," a sheet metal design tool, provi
 - **Download Options**: Users can download the final design in either PNG or SVG format.
 - **Save/Load Designs** (Optional): Saves designs to local storage, allowing users to reload previously saved designs for editing.
 
-### Bonus Features (Optional but Appreciated)
+### Bonus Features
 - **Drag-to-Move Fold Lines**: Users can move fold lines by dragging them across the design.
 - **Bend Direction Support**: Fold lines are visually represented with different colors or markers to indicate bend directions.
 - **Zoom/Pan Functionality**: Users can zoom in/out and pan the design for a closer view.
