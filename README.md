@@ -1,6 +1,6 @@
 # Sheet Metal Design Preview Tool (Mini Version of The Forge)
 
-1. **Live Demo Link**: The live demo on Vercel has been added: [Vercel Demo](https://sheet-metal-design-tool-six.vercel.app/)
+1. **Live Demo Link**: The live demo on Vercel click here: [Vercel Demo](https://sheet-metal-design-tool-six.vercel.app/)
 
 ## Overview
 The **Sheet Metal Design Preview Tool** is a web-based tool designed to help users define flat rectangular sheets, add fold lines at specified positions, and preview the design. Users can download the final design in PNG/SVG format. The tool offers a simple and interactive way to visualize the fold lines on the sheet metal design, catering to users needing such functionality for sheet metal fabrication or design.
