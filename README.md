@@ -61,10 +61,10 @@ This tool mimics a mini version of "The Forge," a sheet metal design tool, provi
 
 ![image](https://github.com/user-attachments/assets/8c683377-325d-4df7-8a1a-467f1135947f)
 
-## zoom in 
+## zoom out
 ![image](https://github.com/user-attachments/assets/0183e72c-d5a8-4dae-8aba-08a2dba9704e)
 
-## zoom out 
+## zoom in
 ![image](https://github.com/user-attachments/assets/6c97bdcb-c8b0-4f44-8f1d-f2c052b2030a)
 
 ## Png downloaded
