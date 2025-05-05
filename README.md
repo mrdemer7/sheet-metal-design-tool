@@ -51,4 +51,4 @@ This tool mimics a mini version of "The Forge," a sheet metal design tool, provi
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/mrdemer7/sheet-metal-design-preview-tool.git
